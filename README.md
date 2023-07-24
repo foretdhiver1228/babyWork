@@ -1,7 +1,4 @@
-###README.md
-
 ## 이 프로젝트는 0년 차 개발자 시절 toyproject 입니다.  (23/07/24 옮김)
-
 
 
 ##2019.01.17 ~ 2020.03.30 4차 프로젝트 
@@ -91,7 +88,7 @@ Tool : Eclipse Luna, Erwin, Oracle SQL Developer 18.1, Chrome 80, IE 11, Google 
 - 데이터 삭제는 Flag (Y/N) 사용했음. 
 
 ▶개 발 환 경 :  
-- OS : window10 64bit, RAM : 8G 
+- OS : window
 
 ▶개 발 도 구 :  
 - JDK 1.8, Apache Tomcat 8.0, Oracle 11g, JDBC Thin Driver(ojdbc6.jar) 
