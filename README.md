@@ -18,7 +18,7 @@
 - 통합작업
 
 ▶개 발 환 경 :  
-- OS : window10 64bit, RAM : 8G 
+- OS : window
 
 ▶개 발 도 구 :  
 Front-End : HTML 4.01, HTML5, CSS3, JavaScript, ECMAScript 3, Ajax, jQuery 1.11, json, XML
@@ -43,7 +43,7 @@ Tool : Eclipse Luna, Erwin, Oracle SQL Developer 18.1, Chrome 80, IE 11, Google 
 - 게시판에 글 작성시 네이버 웹 에디터 api 적용. 
 
 ▶개 발 환 경 :  
-- OS : window10 64bit, RAM : 8G 
+- OS : window
 
 ▶개 발 도 구 :  
 - JDK 1.8, Apache Tomcat 8.0, Oracle 11g, JDBC Thin Driver(ojdbc6.jar) 
@@ -67,7 +67,7 @@ Tool : Eclipse Luna, Erwin, Oracle SQL Developer 18.1, Chrome 80, IE 11, Google 
 - Daum 주소 api를 이용한 회원가입. 
 
 ▶개 발 환 경 :  
-- OS : window10 64bit, RAM : 8G 
+- OS : window
 
 ▶개 발 도 구 :  
 - JDK 1.8, Apache Tomcat 8.0, Oracle 11g, JDBC Thin Driver(ojdbc6.jar) 
